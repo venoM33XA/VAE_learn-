@@ -19,4 +19,4 @@ A Variational Autoencoder is a type of generative model that learns the **distri
 - **MNIST**: 28×28 grayscale images of handwritten digits (0–9)
 - Downloaded automatically via `torchvision.datasets.MNIST`
 
----
+----
